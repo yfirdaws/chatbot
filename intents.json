@@ -4,6 +4,7 @@
      "responses": ["Hello", "Hi", "Hi there"],
      "context": [""]
     },
+
     {"tag": "goodbye",
      "patterns": ["Bye", "See you later", "Goodbye"],
      "responses": ["See you later", "Have a nice day", "Bye! Come back again", "I hope I was of help"],
@@ -15,13 +16,13 @@
      "context": [""]
     },
     {"tag": "about",
-     "patterns": ["Who are you?", "What are you?", "Who you are?" , "who be dis"],
+     "patterns": ["Who are you?", "What are you?", "Who you are?" , "who be dis" ],
      "responses": ["I'm saf, your bot assistant.", "I'm saf, an Artificial Intelligent bot"],
      "context": [""]
     },
     {"tag": "name",
     "patterns": ["what is your name", "what should I call you", "whats your name?"],
-    "responses": ["You can call me Joana.", "I'm Joana!", "Just call me as Joana"],
+    "responses": ["You can call me saffy.", "I'm saffy", "Just call me saffy"],
     "context": [""]
     },
     {"tag": "help",
